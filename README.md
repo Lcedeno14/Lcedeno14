@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Luis C 👋</h1>
   <p align="center">
-    <code>Data Science & Software Engineer</code>
+    <code>Software Developer and Data Enthusiast</code>
   </p>
   <p>
   
