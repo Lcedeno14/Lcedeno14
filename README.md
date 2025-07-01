@@ -4,6 +4,13 @@
   </p>
   <p>
   
+<h3 align="center">📊Tableau Dashboard Portfolio</h3>
+<p align="center"> 
+  click here -->
+  <a href="https://public.tableau.com/app/profile/your-public-username">
+    <img src="https://img.shields.io/badge/Tableau%20Portfolio-0176D3?logo=tableau&logoColor=white" />
+  </a>
+</p>
 
 --- 
 
