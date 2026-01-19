@@ -1,68 +1,59 @@
 
-
 <h1 align="center"> Hi, I'm Luis C 👋</h1>
 <p align="center">
-  <code>Data Engineer</code>
+  <code>Full-Stack Data Engineer</code>
 </p>
 
 ---
-<h1 align="center"> 💻 Tech Stack </h1>
+<h1 align="center"> 💻 Data Engineering Stack </h1>
 
-### Core Data Engineering Stack
+### Core Data Engineering
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=fff)](#)
-[![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)](#)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)](#)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)](#)
 
 ---
 
-### Containerization & Infrastructure 
+### Infrastructure, Orchestration & Cloud
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=fff)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)](#)
 [![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](#)
-
----
-
-### Workflow Orchestration & Data Ingestion 
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Kestra](https://img.shields.io/badge/Kestra-6E3AFF?logo=kestra&logoColor=white)](#)
-[![REST API](https://img.shields.io/badge/REST%20APIs-005571?logo=api&logoColor=white)](#)
-[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
-[![Incremental Loads](https://img.shields.io/badge/Incremental%20Loading-4CAF50)](#)
 
 ---
 
-### Data Warehousing 
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)](#)
-[![Partitioning](https://img.shields.io/badge/Partitioning-007ACC)](#)
-[![Clustering](https://img.shields.io/badge/Clustering-007ACC)](#)
-[![ML in BigQuery](https://img.shields.io/badge/BigQuery%20ML-4285F4)](#)
-
----
-
-### Analytics Engineering 
+### Data Modeling, Transformation & Analytics Engineering
 [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)](#)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![Incremental Loads](https://img.shields.io/badge/Incremental%20Loading-4CAF50)](#)
+[![Partitioning](https://img.shields.io/badge/Partitioning-007ACC)](#)
 [![Data Testing](https://img.shields.io/badge/Data%20Testing-4CAF50)](#)
-[![Documentation](https://img.shields.io/badge/Documentation-0A66C2)](#)
+
+---
+
+### Backend & APIs
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](#)
+[![REST APIs](https://img.shields.io/badge/REST%20APIs-005571)](#)
+
+---
+
+### Frontend, Visualization & Apps
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white)](#)
-
----
-
-### Batch Processing 
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)](#)
-[![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C)](#)
-
----
-
-### Streaming & Event Processing 
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)](#)
-[![Kafka Streams](https://img.shields.io/badge/Kafka%20Streams-231F20)](#)
-[![KSQL](https://img.shields.io/badge/KSQL-231F20)](#)
-[![Avro](https://img.shields.io/badge/Avro-E25A1C)](#)
 
 ---
 
@@ -76,20 +67,11 @@
 
 ---
 
-### Frameworks & Libraries
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485?logo=fastapi&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](#)
-
----
-
-### Tools & Platforms
+### Developer Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+
 
 <!--
 **Lcedeno14/Lcedeno14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
