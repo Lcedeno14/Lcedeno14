@@ -3,14 +3,7 @@
     <code>Data Engineer</code>
   </p>
   <p>
-  
 
-<p align="center"> 
-  <a href="https://public.tableau.com/app/profile/luis.cedeno">
-    <img src="https://img.shields.io/badge/Tableau%20Portfolio-0176D3?logo=tableau&logoColor=white" />
-  </a>
-  <-- Click Here
-</p>
 
 --- 
 
