@@ -55,7 +55,6 @@
 ### Batch Processing 
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)](#)
 [![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C)](#)
-[![Distributed Joins](https://img.shields.io/badge/Joins%20%26%20GroupBy-6A5ACD)](#)
 
 ---
 
